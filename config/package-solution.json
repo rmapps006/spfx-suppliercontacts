@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "supplier-contacts-client-side-solution",
+    "id": "74f4c5cc-86d2-4f77-b13f-4a4820c9aa37",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Supplier-Contacts description"
+      },
+      "longDescription": {
+        "default": "Supplier-Contacts description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "supplier-contacts Feature",
+        "description": "The feature that activates elements of the supplier-contacts solution.",
+        "id": "5815efb8-11d5-4539-b95c-e50f3d4c7ead",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/supplier-contacts.sppkg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "supplier-contacts",
+    "libraryId": "74f4c5cc-86d2-4f77-b13f-4a4820c9aa37",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Supplier-Contacts",
+    "solutionShortDescription": "Supplier-Contacts description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
